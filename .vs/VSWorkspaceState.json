@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\js",
+    "\\assets\\screenshot"
   ],
-  "SelectedNode": "\\C:\\Users\\alexa\\Source\\Repos\\Challenge_03-Javascript",
+  "SelectedNode": "\\assets\\screenshot\\Password Generator.gif",
   "PreviewInSolutionExplorer": false
 }
